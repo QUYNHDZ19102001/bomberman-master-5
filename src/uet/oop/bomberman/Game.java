@@ -1,6 +1,6 @@
 package uet.oop.bomberman;
 
-import uet.oop.bomberman.Image.Screen;
+import uet.oop.bomberman.Graphich.Screen;
 import uet.oop.bomberman.GuiX.Frame;
 import uet.oop.bomberman.Input.Keyboard;
 

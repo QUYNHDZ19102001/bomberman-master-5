@@ -1,4 +1,4 @@
-package uet.oop.bomberman.Image;
+package uet.oop.bomberman.Graphich;
 
 /**
  * interface load image

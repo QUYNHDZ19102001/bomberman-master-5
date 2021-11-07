@@ -3,7 +3,7 @@ package uet.oop.bomberman.Entities.Charecter;
 import uet.oop.bomberman.Board;
 import uet.oop.bomberman.Game;
 import uet.oop.bomberman.Entities.AnimatedEntitiy;
-import uet.oop.bomberman.Image.Screen;
+import uet.oop.bomberman.Graphich.Screen;
 
 /**
  * Bao gồm Bomber và Enemy

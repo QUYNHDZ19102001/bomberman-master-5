@@ -3,7 +3,7 @@ package uet.oop.bomberman.Entities.Charecter.enemy;
 import uet.oop.bomberman.Board;
 import uet.oop.bomberman.Game;
 import uet.oop.bomberman.Entities.Charecter.enemy.AiEnemy.AIMedium2;
-import uet.oop.bomberman.Image.Sprite;
+import uet.oop.bomberman.Graphich.Sprite;
 
 public class Balloon extends Enemy {
 	

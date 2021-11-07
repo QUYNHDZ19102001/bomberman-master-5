@@ -13,8 +13,8 @@ import uet.oop.bomberman.Entities.Taitel.destroyable.Brick;
 import uet.oop.bomberman.Entities.Taitel.item.BombItem;
 import uet.oop.bomberman.Entities.Taitel.item.FlameItem;
 import uet.oop.bomberman.Excepitions.LoadLevelException;
-import uet.oop.bomberman.Image.Screen;
-import uet.oop.bomberman.Image.Sprite;
+import uet.oop.bomberman.Graphich.Screen;
+import uet.oop.bomberman.Graphich.Sprite;
 
 import java.io.FileReader;
 import java.util.Scanner;

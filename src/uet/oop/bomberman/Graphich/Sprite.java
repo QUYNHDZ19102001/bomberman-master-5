@@ -1,4 +1,4 @@
-package uet.oop.bomberman.Image;
+package uet.oop.bomberman.Graphich;
 
 /**
  * Lưu trữ thông tin các pixel của 1 sprite (hình ảnh game)

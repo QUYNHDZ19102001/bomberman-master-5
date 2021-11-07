@@ -2,8 +2,8 @@ package uet.oop.bomberman.Entities.Bombs;
 
 import uet.oop.bomberman.Entities.Entity;
 import uet.oop.bomberman.Entities.Charecter.Character;
-import uet.oop.bomberman.Image.Screen;
-import uet.oop.bomberman.Image.Sprite;
+import uet.oop.bomberman.Graphich.Screen;
+import uet.oop.bomberman.Graphich.Sprite;
 
 
 public class FlameSegment extends Entity {

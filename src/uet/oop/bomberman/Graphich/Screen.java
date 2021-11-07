@@ -1,4 +1,4 @@
-package uet.oop.bomberman.Image;
+package uet.oop.bomberman.Graphich;
 
 import uet.oop.bomberman.Board;
 import uet.oop.bomberman.Game;

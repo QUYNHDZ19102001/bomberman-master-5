@@ -3,7 +3,7 @@ package uet.oop.bomberman.Entities.Taitel;
 import uet.oop.bomberman.Board;
 import uet.oop.bomberman.Entities.Entity;
 import uet.oop.bomberman.Entities.Charecter.Bomber;
-import uet.oop.bomberman.Image.Sprite;
+import uet.oop.bomberman.Graphich.Sprite;
 
 public class Portal extends Tile {
 	private Board _board;

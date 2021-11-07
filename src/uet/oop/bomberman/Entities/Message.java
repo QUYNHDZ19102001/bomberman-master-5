@@ -1,8 +1,8 @@
 package uet.oop.bomberman.Entities;
 
-import uet.oop.bomberman.Image.Screen;
-
 import java.awt.*;
+
+import uet.oop.bomberman.Graphich.Screen;
 
 /**
  * Hiển thị thông báo ra màn chơi

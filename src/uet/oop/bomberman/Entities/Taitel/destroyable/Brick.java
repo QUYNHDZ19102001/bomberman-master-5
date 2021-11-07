@@ -1,8 +1,8 @@
 package uet.oop.bomberman.Entities.Taitel.destroyable;
 
 
-import uet.oop.bomberman.Image.Screen;
-import uet.oop.bomberman.Image.Sprite;
+import uet.oop.bomberman.Graphich.Screen;
+import uet.oop.bomberman.Graphich.Sprite;
 import uet.oop.bomberman.Levels.Coordinates;
 
 public class Brick extends DestroyableTile {

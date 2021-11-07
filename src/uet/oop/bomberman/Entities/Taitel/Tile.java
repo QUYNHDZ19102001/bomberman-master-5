@@ -1,8 +1,8 @@
 package uet.oop.bomberman.Entities.Taitel;
 
 import uet.oop.bomberman.Entities.Entity;
-import uet.oop.bomberman.Image.Screen;
-import uet.oop.bomberman.Image.Sprite;
+import uet.oop.bomberman.Graphich.Screen;
+import uet.oop.bomberman.Graphich.Sprite;
 import uet.oop.bomberman.Levels.Coordinates;
 
 /**

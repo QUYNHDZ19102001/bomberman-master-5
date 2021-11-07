@@ -6,8 +6,8 @@ import uet.oop.bomberman.Entities.AnimatedEntitiy;
 import uet.oop.bomberman.Entities.Entity;
 import uet.oop.bomberman.Entities.Charecter.Bomber;
 import uet.oop.bomberman.Entities.Charecter.Character;
-import uet.oop.bomberman.Image.Screen;
-import uet.oop.bomberman.Image.Sprite;
+import uet.oop.bomberman.Graphich.Screen;
+import uet.oop.bomberman.Graphich.Sprite;
 import uet.oop.bomberman.Levels.Coordinates;
 
 public class Bomb extends AnimatedEntitiy {
@@ -105,7 +105,7 @@ public class Bomb extends AnimatedEntitiy {
 
 	@Override
 	public boolean collide(Entity e) {
-        // TODO: xử lý khi Bomber đi ra sau khi vừa đặt bom (_allowedToPassThru)
+        // xử lý khi Bomber đi ra sau khi vừa đặt bom (_allowedToPassThru)
 		if (e instanceof Bomber)
 		{
 			double x = e.getX() - Coordinates.tileToPixel(getX());
@@ -118,7 +118,7 @@ public class Bomb extends AnimatedEntitiy {
 			return _allowedToPassThru;
 		}
 
-        // TODO: xử lý va chạm với Flame của Bomb khác
+        // xử lý va chạm với Flame của Bomb khác
 		if (e instanceof Bomb)
 		{
 			_timeToExplode = 0;

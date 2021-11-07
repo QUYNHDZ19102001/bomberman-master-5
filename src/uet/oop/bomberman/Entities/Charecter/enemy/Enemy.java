@@ -8,8 +8,8 @@ import uet.oop.bomberman.Entities.Bombs.Flame;
 import uet.oop.bomberman.Entities.Charecter.Bomber;
 import uet.oop.bomberman.Entities.Charecter.Character;
 import uet.oop.bomberman.Entities.Charecter.enemy.AiEnemy.AI;
-import uet.oop.bomberman.Image.Screen;
-import uet.oop.bomberman.Image.Sprite;
+import uet.oop.bomberman.Graphich.Screen;
+import uet.oop.bomberman.Graphich.Sprite;
 import uet.oop.bomberman.Levels.Coordinates;
 
 import java.awt.*;

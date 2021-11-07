@@ -6,8 +6,8 @@ import uet.oop.bomberman.Entities.Entity;
 import uet.oop.bomberman.Entities.Bombs.Bomb;
 import uet.oop.bomberman.Entities.Bombs.Flame;
 import uet.oop.bomberman.Entities.Charecter.enemy.Enemy;
-import uet.oop.bomberman.Image.Screen;
-import uet.oop.bomberman.Image.Sprite;
+import uet.oop.bomberman.Graphich.Screen;
+import uet.oop.bomberman.Graphich.Sprite;
 import uet.oop.bomberman.Input.Keyboard;
 import uet.oop.bomberman.Levels.Coordinates;
 

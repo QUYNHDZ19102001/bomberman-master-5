@@ -1,7 +1,7 @@
 package uet.oop.bomberman.Entities.Taitel.item;
 
 import uet.oop.bomberman.Entities.Taitel.Tile;
-import uet.oop.bomberman.Image.Sprite;
+import uet.oop.bomberman.Graphich.Sprite;
 
 public abstract class Item extends Tile {
 

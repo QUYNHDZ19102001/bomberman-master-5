@@ -3,7 +3,7 @@ package uet.oop.bomberman.Entities.Taitel.destroyable;
 import uet.oop.bomberman.Entities.Entity;
 import uet.oop.bomberman.Entities.Bombs.Flame;
 import uet.oop.bomberman.Entities.Taitel.Tile;
-import uet.oop.bomberman.Image.Sprite;
+import uet.oop.bomberman.Graphich.Sprite;
 
 /**
  * Đối tượng cố định có thể bị phá hủy

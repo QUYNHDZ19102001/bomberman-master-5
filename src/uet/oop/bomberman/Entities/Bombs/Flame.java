@@ -3,7 +3,7 @@ package uet.oop.bomberman.Entities.Bombs;
 import uet.oop.bomberman.Board;
 import uet.oop.bomberman.Entities.Entity;
 import uet.oop.bomberman.Entities.Charecter.Character;
-import uet.oop.bomberman.Image.Screen;
+import uet.oop.bomberman.Graphich.Screen;
 
 public class Flame extends Entity {
 
